@@ -1,1 +1,1 @@
-# STM32F407Discovery
+# STM32F407 Discovery Kit

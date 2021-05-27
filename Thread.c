@@ -1,7 +1,7 @@
 //	Author: Ming Chak Chan Matthew
 //	Date: 13/12/2020
 //	File: Thread.c
-//	Description: This file contains three operation and initialization threads for this assignment
+//	Description: This file contains three operation and initialization threads
 
 #include "cmsis_os.h"                                           // CMSIS RTOS header file
 #include "my_headers.h"
